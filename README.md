@@ -9,6 +9,7 @@ environment, and years of experience.
 
 
 
+
 METHODOLOGY:
 The dataset was first loaded and cleaned by removing any rows with missing values.
 Key features selected for prediction were Job Satisfaction, Monthly Income, Years at Company, and Work-Life Balance.
