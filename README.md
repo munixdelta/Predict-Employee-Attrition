@@ -3,6 +3,12 @@ PROBLEM STATEMENT:
 Predict Employee Attrition: Build a classification model to predict whether an employee
 is likely to leave a company based on factors such as job satisfaction, salary, work
 environment, and years of experience.
+
+
+
+
+
+
 METHODOLOGY:
 The dataset was first loaded and cleaned by removing any rows with missing values.
 Key features selected for prediction were Job Satisfaction, Monthly Income, Years at Company, and Work-Life Balance.
